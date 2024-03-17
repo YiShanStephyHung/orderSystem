@@ -1,0 +1,77 @@
+[
+    {
+        "originState": "中南美洲",
+        "originCountry": "哥倫比亞",
+        "name": "卡爾達斯",
+        "taste": [
+            "萊姆葡萄",
+            "白蘭地",
+            "櫻桃",
+            "巧克力"
+        ],
+        "price": 170,
+        "roastRatio": 40
+    },
+    {
+        "originState": "中南美洲",
+        "originCountry": "哥倫比亞",
+        "name": "克菈菈莊園",
+        "taste": [
+            "陳皮",
+            "炭焙烏龍",
+            "核桃"
+        ],
+        "price": 110,
+        "roastRatio": 80
+    },
+    {
+        "originState": "中南美洲",
+        "originCountry": "哥倫比亞",
+        "name": "寂靜莊園",
+        "taste": [
+            "黃金奇異果",
+            "橘",
+            "莓",
+            "紅糖"
+        ],
+        "price": 140,
+        "roastRatio": 20
+    },
+    {
+        "originState": "中南美洲",
+        "originCountry": "瓜地馬拉",
+        "name": "科班",
+        "taste": [
+            "青蘋果",
+            "烤杏仁",
+            "可可"
+        ],
+        "price": 90,
+        "roastRatio": 60
+    },
+    {
+        "originState": "中南美洲",
+        "originCountry": "哥斯大黎加",
+        "name": "塔拉珠",
+        "taste": [
+            "烤橘子",
+            "熟蘋果",
+            "奶油糖",
+            "莓果茶"
+        ],
+        "price": 110,
+        "roastRatio": 40
+    },
+    {
+        "originState": "中南美洲",
+        "originCountry": "宏都拉斯",
+        "name": "科潘",
+        "taste": [
+            "白柚",
+            "杏仁",
+            "可可"
+        ],
+        "price": 90,
+        "roastRatio": 60
+    }
+]

@@ -3,18 +3,17 @@ import { createRouter, createWebHashHistory } from "vue-router";
 const routes = [
   {
     path: "/",
-    redirect: "/dashboard",
-    name: "MainLayout",
-    component: () => import("@/layouts/MainLayout.vue"),
+    redirect: "/order",
+    name: "Main",
     children: [
       {
-        path: "/dashboard",
-        name: "Dashboard",
-        component: () => import("@/views/dashboard.vue"),
+        path: "/order",
+        name: "Order",
+        component: () => import("@/views/order.vue"),
       }
-    ],
-  },
 
+    ],
+  }
 ];
 
 const router = createRouter({
